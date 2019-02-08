@@ -52,13 +52,13 @@ image: /img/evaddon-share.png
 
 #### Do you have a demo video on how to use the add-on?
 
-Simple verification demo:
+**Simple verification demo**
 
-PRO verification demo:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dE_RdQYI7dc?controls=0&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
-https://youtu.be/5zGOkxkhs8s
+**PRO verification demo**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5zGOkxkhs8s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5zGOkxkhs8s?controls=0&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
 #### If i don’t want to use quota I own, will I be refunded a partial amount?
 
