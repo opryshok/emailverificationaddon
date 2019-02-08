@@ -1,3 +1,17 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "Homepage"
+baseurl = "https://emailverificationaddon.com"
+title = "Email Verification directly on Google Sheets"
+author = "Ihor Stefurak"
+
+googleAnalytics = "UA-3237080-73"
+defaultContentLanguage = "en"
+language = "en-US"
+
+enableRobotsTXT = true
+canonifyURLs = true
+
+[permalinks]
+    post = "/blog/:title/"
+    pages = "/:title/"
+
+[params]
+	og_image ="/img/social.jpg"

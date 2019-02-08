@@ -1,57 +1,21 @@
-<footer class="bg-black ph3 pv4 white">
-
-	<div class="mw7 center pt3">
-
-		<div class="measure-narrow center mb4">
-
-			<img src="/img/logo.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
-			<p class="f3 lh-title light-gray b tc mb2">Newsletter subscribe</p>
-			<p>Get awesome news from us in your inbox every two weeks. Be the first to learn about new products.</p>
-
-			{{ partial "newsletter-form" . }}
-
-		</div>
-
-		<div class="flex-ns justify-between">
-
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Kaldi</h3>
-				<ul class="mb3">
-					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/products" class="link">Our products</a></li>
-					<li><a href="/values" class="link">About</a></li>
-					<li><a href="/post" class="link">Blog</a></li>
-					<li><a href="/contact" class="link">Contact</a></li>
-				</ul>
-			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Find out more</h3>
-				<ul class="mb3">
-					<li><a href="/post/jamaica-blue/" class="link">Latest offers</a></li>
-					<li><a href="/contact" class="link">Schedule and appointment</a></li>
-				</ul>
-			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
-				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
-				</ul>
-			</div>
-
-		</div>
-	</div>
-
+<footer>
+  <div class="pt-5 pb-3">
+    <div class="container">
+      <div class="row my-3">
+        <div class="mx-auto col-sm-12 px-3 col-lg-8 col-md-10">
+          <a href="/help" class="card-link text-muted">Help center</a>
+          <a href="/contact" class="card-link text-muted">Contact us</a>
+          <a href="/pp" class="card-link text-muted">Privacy policy</a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="mx-auto col-sm-12 px-3 col-lg-8 col-md-10">
+          <p class="">&copy; {{ now.Year }} {{ .Site.Title }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
 </footer>
-
-{{ partial "svg" . }}
-
 <script src="/app.js"></script>
-
-</body>
-
-</html>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
