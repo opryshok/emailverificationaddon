@@ -9,14 +9,12 @@ title: Email Verification directly on Google Sheets
 Email Verification Add-on prevents bounced emails and low-quality contacts because:
 
 * It provides a real-time validation lookup directly on Google Sheets. You receive fresh data upon request and don’t need to export/import contacts for the verification process.
-
 * It shows you non-existent, non-deliverable and misspelled addresses.
-
 * It has two verification levels: Simple and Pro. At the Simple level you can get 2 data columns: B) an email address is deliverable or not, C) a domain exists or not. At PRO level, there are 2 extra data columns: D) inbox status and E) catching-all status.
 
 ![The Advanced level columns](/img/4columns.png "The Advanced level columns")
 
-*Four columns of verification data*
+_Four columns of verification data_
 
 * It shows you if inboxes are full or in a catch-all message mode. That can help you understand how often people check their inbox and for what reason.
 
@@ -24,17 +22,17 @@ Email Verification Add-on prevents bounced emails and low-quality contacts becau
 
 With a free account, you can get 200 free verifications at the beginning and 50 per day after that. If you need more, choose the amount you want to increase that quota by. It is a one-time payment without the expiration date for the purchased quota:
 
-*2,000 verifications for $12;
+\* 2,000 verifications for $12;
 
-*5,000 verifications for $20;
+\* 5,000 verifications for $20;
 
-*10,000 verifications for $33;
+\* 10,000 verifications for $33;
 
-*25,000 verifications for $65;
+\* 25,000 verifications for $65;
 
-*50,000 verifications for $100;
+\* 50,000 verifications for $100;
 
-*100,000 verifications for $180.
+\* 100,000 verifications for $180.
 
 #### Common questions
 
