@@ -22,17 +22,17 @@ _Four columns of verification data_
 
 With a free account, you can get 200 free verifications at the beginning and 50 per day after that. If you need more, choose the amount you want to increase that quota by. It is a one-time payment without the expiration date for the purchased quota:
 
-\* 2,000 verifications for $12;
+* 2,000 verifications for $12;
 
-\* 5,000 verifications for $20;
+* 5,000 verifications for $20;
 
-\* 10,000 verifications for $33;
+* 10,000 verifications for $33;
 
-\* 25,000 verifications for $65;
+* 25,000 verifications for $65;
 
-\* 50,000 verifications for $100;
+* 50,000 verifications for $100;
 
-\* 100,000 verifications for $180.
+* 100,000 verifications for $180.
 
 #### Common questions
 
