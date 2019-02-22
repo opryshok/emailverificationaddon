@@ -1,2 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
 https://emailverificationaddon.netlify.com/* https://emailverificationaddon.com/:splat 301!
+https://emailverificationaddon.com/categories/* https://emailverificationaddon.com/:splat 301!
+https://emailverificationaddon.com/tags/* https://emailverificationaddon.com/:splat 301!
+https://emailverificationaddon.com/post/* https://emailverificationaddon.com/:splat 301!
