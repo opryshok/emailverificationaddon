@@ -20,7 +20,7 @@ _Four columns of verification data_
 
 #### Pricing
 
-With a free account, you can get 200 free verifications at the beginning and 50 per day after that. If you need more, choose the amount you want to increase that quota by. It is a one-time payment without the expiration date for the purchased quota:
+With a free account, you get 50 free verifications at the beginning and 100 more by applying a coupon code. If you need more, simply buy credits. It is a one-time payment without the expiration date for the purchased credits.
 
 * 2,000 verifications for $14;
 * 5,000 verifications for $25;
@@ -42,7 +42,3 @@ For security reasons and in order to protect your data, we do not collect (or sh
 **What column shows me that my email will not be bounced?**
 
 The «Is deliverable» column is what you need. It shows that mail server accepted this email address. Next, you can check if that email is not in a catch-all messages mode.
-
-**When will you reset my free usage?**
-
-A free account gives you 200 free verifications at the beginning and 50 per day after that. We reset usage at 1 am every day.
