@@ -2,7 +2,7 @@
 title: Privacy Policy
 date: 2019-01-21T20:09:19.044Z
 description: Privacy Policy for Social Share Counter Add-on
-image: /img/facebook.jpg
+image: /img/social.jpg
 ---
 *Last updated: January 22, 2019*
 
