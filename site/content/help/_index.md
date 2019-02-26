@@ -2,7 +2,7 @@
 title: Support center
 date: 2019-02-08T13:40:41.715Z
 description: Support center for Email Verification Add-on
-image: /img/evaddon-share.png
+image: /img/social.jpg
 ---
 #### How to use the add-on for email verification?
 
