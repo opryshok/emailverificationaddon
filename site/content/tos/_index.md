@@ -1,7 +1,7 @@
 ---
 title: Terms of Service
 description: Terms of Service for Social Share Counter Add-on
-image: /img/facebook.jpg
+image: /img/social.jpg
 ---
 _Last updated: January 31, 2019_
 
