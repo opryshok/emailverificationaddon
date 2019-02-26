@@ -3,7 +3,7 @@ date: 2019-02-08T13:25:23.572Z
 description: >-
   Install the add-on for bulk email verification directly on Google Sheets,
   where you have contacts collected
-image: /img/evaddon-share.png
+image: /img/social.jpg
 title: Email Verification directly on Google Sheets
 ---
 Email Verification Add-on prevents bounced emails and low-quality contacts because:
