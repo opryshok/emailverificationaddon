@@ -6,21 +6,15 @@ image: /img/social.jpg
 ---
 #### How to use the add-on for email verification?
 
-* Create headers to understand data: Add-ons -> Email Verification Add-on -> Open -> Create headers.
-
-![Launch the add-on](/img/h1.png "Launch the add-on")
-_Launch the add-on_
-
+* Create headers to understand data: Add-ons -> Email Verification -> Start -> Create headers.
 * Paste a list of email addresses into the first column.
 * Type =VerifyEmail function in the next column cell, pick first email address you want to verify and press Enter.
 
 ![Use email verification function](/img/h2.png "Use email verification function")
-_Use email verification function_
 
 * Click and drag a handle, dragging down the column from the cell with the =VerifyEmail function to execute the verification process for other email addresses. Verify up to 20 email addresses at a time.
 
 ![Execute the process for others](/img/h3.png "Execute the process for others")
-_Execute the process for others_
 
 * Wait a few seconds to get results.
 * Now you can move forward with other contacts in your list.
@@ -34,14 +28,9 @@ _Execute the process for others_
 
 #### How can I increase my amount of quota?
 
-* Open Settings: Add-ons -> Email Verification Add-on -> Settings.
+* Open Settings: Add-ons -> Email Verification -> Settings.
 * Choose the amount you want to increase your quota by.
-
-![Choose the amount of quota](/img/h4.png "Choose the amount of quota")
-
 * Pay securely with Stripe.
-
-![Pay securely with Stripe](/img/h5.png "Pay securely with Stripe")
 
 #### Do you have a demo video on how to use the add-on?
 
