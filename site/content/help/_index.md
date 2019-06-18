@@ -18,11 +18,15 @@ image: /img/social.jpg
 * Choose the amount you want to increase your quota by.
 * Pay securely with Stripe.
 
+#### What does it mean «deliverable (catch-all server)»?
+
+«Deliverable (catch-all server)» means an email server receives emails sent to any email address under that domain. Be aware, there is a risk you can get under a spam filter.
+
 #### Do you have a demo video on how to use the add-on?
 
 **Watch 1 min demo video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i2xWYpuBHmc?controls=0&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i2xWYpuBHmc?showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
 #### If i don’t want to use quota I own, will I be refunded a partial amount?
 
