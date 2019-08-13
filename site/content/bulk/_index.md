@@ -1,7 +1,6 @@
 ---
-title: Contact us
-date: 2019-02-08T14:18:42.445Z
-description: Contact Email Verification Add-on team
+title: Purchase bulk verification with a discount
+description: 'Buy 100,000 email verification with a discount'
 image: /img/social.jpg
 ---
-If you didn’t find your answer in our [Support Center](https://emailverificationaddon.com/help/), ask directly. We are here to help.
+Buy 100,000 email verification with a discount by following the link
