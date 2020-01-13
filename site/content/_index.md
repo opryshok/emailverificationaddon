@@ -17,18 +17,16 @@ Email Verification Add-on prevents bounced emails and low-quality contacts becau
 
 With a free account, you get 50 free verifications at the beginning and 100 more by applying a coupon code. If you need more, simply buy credits. It is a one-time payment without the expiration date for the purchased credits.
 
-* 2,000 verifications for $16;
-* 5,000 verifications for $29;
-* 10,000 verifications for $49;
+* 1,000 verifications for $11;
+* 5,000 verifications for $33;
 * 25,000 verifications for $99;
-* 50,000 verifications for $159;
-* 100,000 verifications for $249.
+* 100,000 verifications for $299.
 
 #### Common questions
 
 **How do you validate the data?**
 
-We have built a service to carry out validation at different levels: an address format, information about a domain, its mail server, and a response from that mail server. The add-on is connected to the service via API.
+We have built a service to carry out validation at different levels: an address format, information about a domain, it's mail server, and a response from that mail server. The add-on is connected to the service via API.
 
 **How can I be sure that you will not steal my data?**
 
