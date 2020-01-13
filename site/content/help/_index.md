@@ -14,17 +14,19 @@ image: /img/social.jpg
 
 #### How can I increase my amount of quota?
 
-* Open Settings: Add-ons -> Email Verification -> Settings.
+* Open Sidebar: Add-ons -> Email Verification -> Start.
 * Choose the amount you want to increase your quota by.
 * Pay securely with Stripe.
 
 #### What do the statuses mean?
 
+«Deliverable» means you can send the email without a risk.
+
 «Deliverable (catch-all server)» means the email server receives emails sent to any email address under that domain. Be aware, there is a risk you can get under a spam filter.
 
-«No response from this mail server» means the email server doesn't respond at the moment because of any of the things: it is down right now or it is slowed down. You can check it again later.
+«The mail server doesn’t respond» means the target mail server either does not respond or takes too long to respond. You can check it again later.
 
-«Not deliverable» means the email address doesn't exist.
+«Not deliverable» means the email address doesn’t exist.
 
 #### Do you have a demo video on how to use the add-on?
 
@@ -34,7 +36,7 @@ image: /img/social.jpg
 
 #### If i don’t want to use quota I own, will I be refunded a partial amount?
 
-No. You will still have access to an amount of quota you own. Increase Quota fees are not refundable.
+No. You will still have access to an amount of quota you own. Fees are not refundable.
 
 #### How to contact you?
 
